@@ -1,3 +1,5 @@
+package JFM_2;
+
 class InefficientUsage {
     static void memtest(Runnable runnable) {
         Runtime runtime = Runtime.getRuntime();

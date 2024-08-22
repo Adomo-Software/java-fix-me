@@ -20,20 +20,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.InefficientUsage.executor": "Run",
+    "Application.Main$CollectionModification.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="RunManager" selected="Application.InefficientUsage">
     <configuration name="CollectionModification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionModification" />
+      <option name="MAIN_CLASS_NAME" value="JFM_1.CollectionModification" />
       <module name="fix_bugs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="InefficientUsage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InefficientUsage" />
+      <option name="MAIN_CLASS_NAME" value="JFM_2.InefficientUsage" />
       <module name="fix_bugs" />
       <method v="2">
         <option name="Make" enabled="true" />
