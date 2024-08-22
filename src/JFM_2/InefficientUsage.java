@@ -30,7 +30,7 @@ class InefficientUsage {
     }
 
     public static void main(String[] args) {
-        memtest(InefficientUsage::problemCode);  // Memory used ~38-70MG
-        memtest(InefficientUsage::solutionCode); // Memory used ~1.25-3MG
+        memtest(InefficientUsage::problemCode);  // Memory used ~38-70Mb
+        memtest(InefficientUsage::solutionCode); // Memory used ~1.25-3Mb
     }
 }
